@@ -1,0 +1,4 @@
+- https://classroom.github.com/assignment-invitations/2b9cfedaedd4799f7dc6d0cddb839a82
+- HW: 10/Objects: Create code modules that combine variables and functions.
+- HW: Simulate a "race" using different looking/behaving shapes that are all "instances" of the same "object."
+- Inspiration: https://en.wikipedia.org/wiki/Rat_race
